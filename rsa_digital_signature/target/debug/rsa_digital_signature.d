@@ -1,0 +1,1 @@
+C:\Users\khoty\Documents\Projects\DifitalSignatureRust\rsa_digital_signature\target\debug\rsa_digital_signature.exe: C:\Users\khoty\Documents\Projects\DifitalSignatureRust\rsa_digital_signature\src\main.rs C:\Users\khoty\Documents\Projects\DifitalSignatureRust\rsa_digital_signature\src\rsa.rs
